@@ -2,7 +2,7 @@ import { Fragment, useEffect, useState, type ReactNode } from "react";
 
 /* ───────────── Editable content (Manilla Chandrika) ───────────── */
 
-const NAME = "Manilla Chandrika";
+const NAME = "Manilla Ca";
 const EMAIL = "manillachandrika@gmail.com"; // Update if needed
 const LINKEDIN = "https://linkedin.com/in/";
 
