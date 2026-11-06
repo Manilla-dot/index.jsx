@@ -2,7 +2,7 @@ import { Fragment, useEffect, useState, type ReactNode } from "react";
 
 /* ───────────── Editable content (Manilla Chandrika) ───────────── */
 
-const NAME = "Manilla Ca";
+const NAME = "Manilla Chandrika";
 const EMAIL = "manillachandrika@gmail.com"; // Update if needed
 const LINKEDIN = "https://linkedin.com/in/";
 
@@ -22,9 +22,9 @@ const CASES: Case[] = [
     name: "Alice Blue Super App Strategy",
     tags: ["Product Strategy", "Fintech", "Ecosystem Design"],
     problem: "Led product strategy to transform fragmented financial tools into a unified Super App connecting trading, investing, and wealth experiences.",
-    role: "Associate PM · Vision to Roadmap",
+    role: "Product Manager · Vision to Roadmap",
     highlights: ["Unified product architecture", "Cross-product navigation flow", "Dependency-based sequencing"],
-    context: "Alice Blue operated multiple standalone products (ANT, RISE) with separate account contexts and user mental models, causing friction between trading and investing journeys.",
+    context: "Alice Blue operated multiple standalone products (ANT, RISE, 1LY Algos, 1LY Options, AskANT, BOT) with separate account contexts and user mental models, causing friction between trading and investing journeys.",
   },
   {
     slug: "ekyc-activation",
